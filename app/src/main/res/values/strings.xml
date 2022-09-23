@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocalBroadcast</string>
+    <string name="button_localBroadcast">Local Broadcast</string>
+</resources>
